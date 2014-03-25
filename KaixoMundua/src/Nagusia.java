@@ -4,5 +4,6 @@ public static void main(String[] args){
 System.out.println("Kaixo");
 System.out.println("Beste aldaketa bat ondo baderitzozu");
 //zerbitzarikoa
+//aldaketa
 }
 }
